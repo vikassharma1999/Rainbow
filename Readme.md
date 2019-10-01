@@ -17,7 +17,6 @@
 
 ## Technologies
 ---
-* OpenCV
 * Tensorflow
 * Python 3.x
 * Google Colab
